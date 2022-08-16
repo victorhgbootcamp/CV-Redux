@@ -1,0 +1,17 @@
+.experience {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+align-items: center;
+background-color: grey;
+padding-top: 25px;
+div{
+margin-right: 10px;
+margin-left: 10px;
+margin-bottom: 30px;
+background-color: aliceblue;
+
+height: 275px; 
+width: 23%; 
+}
+}

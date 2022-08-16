@@ -1,0 +1,21 @@
+.portada{
+    display: flex;
+   justify-content: space-around;
+   align-items: center;
+   margin-top: 65px;
+   margin-bottom: 50px;
+  color: antiquewhite;
+  a{
+    text-decoration: none;
+    color: antiquewhite;
+  }
+}
+.foto img{
+    width: 200px;
+    border-radius: 150px;
+}
+.icono{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

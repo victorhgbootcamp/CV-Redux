@@ -1,0 +1,78 @@
+
+.app {
+  height: 100vh;
+  background-color: grey;
+  display: grid;
+  text-align: center;
+  h3{
+    margin: 0;
+  }
+  
+}
+.cabecera{
+  display: flex;
+  flex-direction: column;
+  background-color: cornsilk;
+}
+.botones{
+  display: flex;
+  justify-content: space-around;
+  border: none;
+  
+}
+.botones div{
+  width: 25%;
+  height: auto;
+
+}
+.boton1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: tan;
+  border: none;
+  color: white;
+  font-size: 20px;
+  padding: 30px;
+  
+}
+.boton2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rosybrown;
+  border: none;
+  color: white;
+  font-size: 20px;
+  padding: 30px;
+  
+}
+
+.boton3{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: tan;
+  border: none;
+  color: white;
+  font-size: 20px;
+  padding: 30px;
+  
+}
+
+.boton4{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rosybrown;
+  border: none;
+  color: white;
+  font-size: 20px;
+  padding: 30px;
+  
+}
+

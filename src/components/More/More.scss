@@ -1,0 +1,26 @@
+.more{
+    display: flex; 
+    justify-content: space-evenly;
+    align-items: flex-start; 
+    background-color: grey;
+    padding-top: 50px;
+}
+
+.languages {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aliceblue;
+    width: 50%;
+}
+.habilidades {
+    background-color: aliceblue;
+    width: 50%;
+    
+}
+.tecnologias{
+    display: flex;
+    flex-wrap: wrap;
+    height: 226px;
+}
